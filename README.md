@@ -56,6 +56,6 @@ Optional: When all events are completed, dismiss the banner.
     
 Notes: Busy week and weekend so had to jam everything into the last 2 days. Tough. Also, there's so much going on now, wondering if there's a good system to help organize the steps. Something like commenting or sequencing code chunks, etc.
 
-![Demo walkthrough](https://raw.githubusercontent.com/designgrappler/iOS-W1---Dropbox/fca351ef8359b6cfe12720b109a373b1cd901c18/Week%201%20-%20Dropbox/Assets.xcassets/ios-wk1-dropbox-demo.gif)
+![Demo walkthrough](https://raw.githubusercontent.com/designgrappler/iOS-W2---Carousel/master/ios-wk2-carousel-demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
